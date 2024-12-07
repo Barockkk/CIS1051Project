@@ -22,7 +22,7 @@ none
 
 TODO, if applicable 
 none 
-
+Barock Ayele tuq35541@temple.edu Xinwen Zhang Eldana Seyoum tun57970@temple.edu Yihan Zhang Mohamed Hassan tur49556@temple.edu Yihan zhang
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
